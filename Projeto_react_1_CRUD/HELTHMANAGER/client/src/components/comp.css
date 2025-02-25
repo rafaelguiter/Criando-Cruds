@@ -1,0 +1,30 @@
+#table {
+    width: 140%;
+    margin-left: -20%;
+}
+
+input[name="data_nascimento"]{
+
+    width: 90%;
+
+}
+
+input[name="nome"]{
+
+    width: 200px;
+
+}
+
+input[name="email"]{
+
+    width: 150px;
+
+}
+
+input[name="procedimento"]{
+
+    width: 650px;
+
+}
+
+
